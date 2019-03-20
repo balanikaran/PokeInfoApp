@@ -29,5 +29,5 @@ Find out more about #FlutterCreate here: https://flutter.dev/create
  - Pokémon Database => [Here](https://pokemondb.net/)
 
 ## License
-BSD 3-Clause License
+BSD 3-Clause License,
 Copyright (c) 2019, Karan Balani
