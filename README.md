@@ -9,7 +9,7 @@ Find out more about #FlutterCreate here: https://flutter.dev/create
  - Random Pokemon Information
  
 ## Screenshots
-<img src="./assets/ssAndroid.png" width="35%">&ensp;<img src="./assets/ssiOS.png" width="35%">
+<img src="/assets/ssAndroid.png" width="40%">&ensp; <img src="/assets/ssiOS.png" width="40%">
  
 ## Credits
  - Flutter Official Documentaion
