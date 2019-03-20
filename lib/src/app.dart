@@ -48,6 +48,7 @@ class _AppState extends State<App> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       color: Colors.white,
       theme: ThemeData(
           fontFamily: 'Major Mono Display', backgroundColor: Colors.white),
